@@ -1,0 +1,27 @@
+
+This is Tales of Nothing!
+
+A very simple RPG Game, based on D&D.
+You can choose to Fight or Run, Left or Right and this can lead you into four different finals!!
+
+Doesn't it sound AMAZING!?
+
+It doesn't have a Graphic Interface, it's all playable on Terminal. 
+It has a game map, but be careful, it cotains spoliers!!
+
+The game was developed in C++ by me and some friends due to an university project.
+I did all the base stuff as Player, Enemies, the dice system and co-created the Battle System.
+
+HAVE FUN AND FEEL FREE TO SUGGEST IMPROVEMENTS AND NEW FEATURES!!
+
+You can dowload it on the link below (it has instructions on how to run the game).
+
+DOWNLOAD : https://bit.ly/2MgExTZ
+
+Developed by Lucas Marinho and some friends.
+Follow me in my social medias.
+
+Facebook : https://bit.ly/33vczti
+Instagram : https://www.instagram.com/lmgamedev_
+Steam : https://bit.ly/31Ftxn4
+GitHub : https://github.com/LuccaMarinho
